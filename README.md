@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Major at Georgia Tech<br>Incoming SwE Intern @ Bank of America<br>Interests: Data Science, Machine Learning, <br>Deep Learning, Probability and Statistics
+Computer Science Major at Georgia Tech<br>SwE Intern @ Bank of America<br>Interests: Data Science, Machine Learning, <br>Deep Learning, Probability and Statistics
 
 
 ## 🌐 Socials:
