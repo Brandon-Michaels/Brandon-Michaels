@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Brandon Michaels  
 🎓 **BS/MS Computer Science @ Georgia Tech (4.0 GPA)**  
-💼 **Previous Software Engineering Intern @ Bank of America (Prime Brokerage – Global Stock Lending Desk)**  
-📊 **Machine Learning Researcher – GROWER Research Lab @ Georgia Tech**
+💼 **Ex-Software Engineering Intern @ Bank of America (Global Markets - Prime Brokerage)**  
+📊 **Machine Learning Researcher @ GROWER Research Lab (Georgia Tech x U.S. Department of Energy, Sandia National Lab)**
 
 ---
 
@@ -11,11 +11,12 @@ I’m passionate about **machine learning systems**, **quantitative research**, 
 ---
 
 ### 🧠 **Core Technical Areas**
-- **Machine Learning & AI:** PyTorch | TensorFlow | Scikit-learn | HuggingFace | XGBoost | Transformers | Reinforcement Learning
+- **Machine Learning & AI:** PyTorch | TensorFlow | Scikit-learn | Ray | Vertex AI | BigQuery ML | XGBoost | Transformers | Reinforcement Learning
+- **Applied AI / LLMs:** LangChain | CrewAI | LoRA | RAG | vLLM | Transformers | LangGraph
 - **Data Science:** Pandas | NumPy | Matplotlib | SciPy | Data Visualization | Feature Engineering | Statistical Inference  
 - **Quantitative Modeling:** Time-Series Forecasting | SARIMA | Fourier & Hilbert-Huang Transforms | Options Pricing | Alpha Signal Design  
-- **Software Engineering:** Python | C++ | Java | React | Flask | Docker | Ansible | AWS Lambda | SQL | Linux  
-- **Systems & Cloud:** Serverless Workflows | CI/CD | Automation | Distributed Experimentation  
+- **Software Engineering:** Python | C++ | Java | React | Flask | Docker | Ansible | AWS Lambda | SQL | Linux | Bash | REST
+- **Systems & Cloud:** GCP | Serverless Workflows | CI/CD | Automation | Distributed Experimentation  
 
 
 ## 🌐 Socials:
