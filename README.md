@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Brandon Michaels  
 🎓 **BS/MS Computer Science @ Georgia Tech (4.0 GPA)**  
 💼 **Ex-Software Engineering Intern @ Bank of America (Global Markets - Prime Brokerage)**  
-📊 **Machine Learning Researcher @ GROWER Research Lab (Georgia Tech x U.S. Department of Energy, Sandia National Lab)**
+📊 **Machine Learning Researcher @ GROWER Research Lab (Georgia Tech x U.S. DoE, Sandia National Lab)**
 
 ---
 
